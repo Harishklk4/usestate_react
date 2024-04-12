@@ -7,6 +7,7 @@ function Dai() {
             <h2>{name}</h2>
             <button onClick={()=> setname(name + 1)}>Increment</button>
             <button onClick={()=> setname(name - 1)}>Decrement</button>
+            <button>new</button>
         </div>
     )
 }
