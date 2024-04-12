@@ -1,0 +1,12 @@
+.hi{
+  background-color: black;
+  color: white;
+  margin-left: 400px;
+  width: 300px;
+  padding: 50px;
+  text-align: center;
+}
+div .hi h1{
+  text-shadow: 10px -10px 5px blue;
+}
+
